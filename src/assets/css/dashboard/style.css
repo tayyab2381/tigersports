@@ -1,0 +1,134 @@
+.name {
+  color: aquamarine;
+}
+.sidebar {
+  background-color: #ff7625 !important;
+}
+.ant-menu-container {
+  background-color: #ff7625 !important;
+}
+.ant-menu-item {
+  background-color: black !important;
+}
+.ant-layout {
+  height: auto !important;
+}
+.ant-layout-header {
+  padding-left: 7px;
+  box-shadow: 0 3px 3px rgba(0, 0, 0, 0.3);
+  height: 72px;
+}
+.ant-layout-header h2 {
+  padding-left: 7px;
+}
+.ant-layout-header {
+  height: 72px;
+}
+.outer-container {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.small-container {
+  box-shadow: 0 3px 3px rgba(0, 0, 0, 0.3);
+  border-radius: 18px;
+  background-color: white;
+  margin-top: 27px;
+  padding: 14px;
+}
+.medium-container {
+  width: 100%;
+  box-shadow: 0 3px 3px rgba(0, 0, 0, 0.3);
+  border-radius: 10px;
+  background-color: white;
+}
+.icon-style {
+  font-size: 55px;
+  color: #e1cb91;
+}
+.text-style {
+  color: #ff4a00 !important;
+}
+.text-style h1 {
+  margin-top: 5px;
+  margin-bottom: 0;
+  color: #ff4a00;
+}
+.ant-divider {
+  border-top-width: 2px;
+  border-top-color: #ff4a00;
+  margin-top: 14px;
+  margin-bottom: 3px;
+}
+.small-container h2 {
+  color: #ff4a00;
+}
+.heading-style {
+  font-size: 10px;
+  font-weight: 600;
+  color: gray;
+}
+.main-head {
+  margin-bottom: -13px;
+}
+.view-more .anticon-down {
+  font-size: 10px;
+  font-weight: 600;
+  color: #ff4a00;
+}
+.ant-list-item-meta-avatar {
+  margin-inline-end: 5px !important;
+}
+.ant-list-item-meta-title {
+  font-size: 13px;
+}
+.list-amount {
+  color: green;
+  font-size: 14px;
+  font-weight: 500;
+}
+.ant-input-prefix {
+  color: grey;
+}
+.team-container {
+  border: 1px solid #0000001c;
+  border-radius: 11px;
+  margin-bottom: 7px;
+  padding: 7px;
+}
+.agent-style {
+  font-weight: 700;
+}
+.avatar-container .ant-avatar {
+  width: 25px;
+  height: 25px;
+}
+.objective-class .ant-divider {
+  margin-top: 1px;
+}
+span.ant-progress-text {
+  color: #ff4a00 !important;
+  font-size: 26px !important;
+  font-weight: 700 !important;
+}
+button.ant-btn.css-dev-only-do-not-override-98ntnt.ant-btn-primary {
+  border-radius: 22px;
+  background-color: black;
+  color: #ff4a00 !important;
+}
+
+button.ant-btn.css-dev-only-do-not-override-98ntnt.ant-btn-default {
+  border-left: none;
+  border-radius: 22px;
+  color: #ff4a00 !important;
+}
+ul.ant-menu.ant-menu-root.ant-menu-vertical.ant-menu-dark.ant-menu-container.css-dev-only-do-not-override-98ntnt {
+  margin-top: 20px;
+}
+li.ant-menu-item.ant-menu-item-selected {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+li.ant-menu-item {
+  margin-top: 18px !important;
+  margin-bottom: 14px !important;
+}
